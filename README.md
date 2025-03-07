@@ -37,6 +37,6 @@ See YOLO [Python Docs](https://docs.ultralytics.com/usage/python/) for more exam
 
 </details>
 
-## <div align="center">Dataset</div>
+## Dataset
 
 Please contact 617719299@qq.com:
